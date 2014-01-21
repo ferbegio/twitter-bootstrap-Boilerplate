@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -44,29 +43,13 @@
           <div class="nav-collapse collapse">
             <ul class="nav">
               <li class="active"><a href="#">Home</a></li>
-              <li><a href="#about">Chi siamo</a></li>
+              <li><a href="#about">Web</a></li>
+              <li><a href="#about">Social</a></li>
+              <li><a href="#about">Video</a></li>
+              <li><a href="#about">Noi</a></li>
               <li><a href="#contact">Contattaci</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
       </div>
     </div>
-
-    <div class="container">
-
-      <h1>Master branch</h1>
-      <p>Coming Soon</p>
-    
-
-
-    </div> <!-- /container -->
-
-    <!-- Le javascript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="js/jquery-1.10.1.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-   
-
-  </body>
-</html>
